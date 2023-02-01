@@ -1,4 +1,4 @@
-# Brain-Tumor-Classification-Using-Deep-Learning-Technique
+# Brain-Tumor-Classification-Using-Deep-Learning-Techniques
 
 
 Sources for brain_archive folder:
