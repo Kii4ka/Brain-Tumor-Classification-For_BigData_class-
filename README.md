@@ -19,13 +19,19 @@ The authors of The association between incidence and mortality of brain cancer a
 Brain tumor diagnosis is time-consuming and strongly dependent on the skills and expertise of the radiologist. In underdeveloped areas, there may be a lack of neurosurgeons who can skillfully interpret MRI results. And in moderately staffed areas, an increase in the number of patients has caused outdated practices to be both expensive and inefficient.
 
 *Proposed Approach*
+
 Machine learning approaches address these problems. For this project, we would like to train a discriminative model to distinguish between tumor and normal tissues. To do so, we have collected datasets from Kaggle, which we prepare by cleaning, randomizing, and splitting. After our data is prepared, we train and evaluate our model. With our first evaluation, we were able to tune the parameters in our model to increase its accuracy. We hope to continue to improve our model. If time permits, we would like to add a "Glioma" tumor, "Meningioma", "Pituitary" classification.
 
 *References*
+
 Fan, Yang, et al. “Burden and Trends of Brain and Central Nervous System Cancer from 1990 to 2019 at the Global, Regional, and Country Levels - Archives of Public Health.” BioMed Central, BioMed Central, 17 Sept. 2022, https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-022-00965-5#:~:text=In%202019%2C%20there%20were%20347%2C992,%25%20%5B%2D27.27%E2%80%9332.83%5D.
+
 Khazaei, Zaher, et al. “The Association between Incidence and Mortality of Brain Cancer and Human Development Index (HDI): An Ecological Study.” BMC Public Health, U.S. National Library of Medicine, 12 Nov. 2020, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7664078/.
+
 https://seer.cancer.gov/statfacts/html/brain.html
+
 https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor
+
 https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-022-00965-5#:~:text=In%202019%2C%20there%20were%20347%2C992,%25%20%5B%2D27.27%E2%80%9332.83%5D)
 
 
