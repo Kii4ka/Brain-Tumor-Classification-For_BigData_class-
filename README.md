@@ -24,19 +24,22 @@ Machine learning approaches address these problems. For this project, we would l
 
 *References*
 
-Fan, Yang, et al. “Burden and Trends of Brain and Central Nervous System Cancer from 1990 to 2019 at the Global, Regional, and Country Levels - Archives of Public Health.” BioMed Central, BioMed Central, 17 Sept. 2022, https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-022-00965-5#:~:text=In%202019%2C%20there%20were%20347%2C992,%25%20%5B%2D27.27%E2%80%9332.83%5D.
+Fan, Yang, et al. "Burden and Trends of Brain and Central Nervous System Cancer from 1990 to 2019 at the Global, Regional, and Country Levels - Archives of Public Health." BioMed Central, BioMed Central, Sept 17, 2022, https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-022-00965-5#:~:text=In%202019%2C%20there%20were%20347%2C992,%25%20%5B%2D27.27%E2%80%9332.83%5D. 
 
-Khazaei, Zaher, et al. “The Association between Incidence and Mortality of Brain Cancer and Human Development Index (HDI): An Ecological Study.” BMC Public Health, U.S. National Library of Medicine, 12 Nov. 2020, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7664078/.
 
-https://seer.cancer.gov/statfacts/html/brain.html
+Johns Hopkins Medicine. (2023). Brain Tumors and Brain Cancer. Johns Hopkins Medicine. Retrieved February 6, 2023, from https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor 
 
-https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor
+ 
+Khazaei, Zaher, et al. "The Association between Incidence and Mortality of Brain Cancer and Human Development Index (HDI): An Ecological Study." BMC Public Health, U.S. National Library of Medicine, Nov 12, 2020, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7664078/. 
 
-https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-022-00965-5#:~:text=In%202019%2C%20there%20were%20347%2C992,%25%20%5B%2D27.27%E2%80%9332.83%5D)
+ 
+National Institutes of Health. (n.d.). Cancer of the brain and other nervous system - cancer stat facts. National Cancer Institute. Retrieved February 5, 2023, from https://seer.cancer.gov/statfacts/html/brain.html 
 
+ 
+ 
+ 
 
 *Sources for brain_archive folder:*
-
 
 1. https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection 
 2. https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection  
