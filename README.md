@@ -3,7 +3,7 @@
 Brain Tumor Classification
 
 
-authors: Katerina Vilkomir, Jerrica Deloatch, Tara Gill
+Authors: Katerina Vilkomir, Jerrica Deloatch, Tara Gill
 
 
 *Introduction*
